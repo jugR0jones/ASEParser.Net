@@ -1,0 +1,16 @@
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ASEParser.csprojAssemblyReference.cache
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ASEParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ASEParser.AssemblyInfoInputs.cache
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ASEParser.AssemblyInfo.cs
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ASEParser.csproj.CoreCompileInputs.cache
+C:\dev\unity\Demos\ASEParser\ASEParser\bin\Debug\net5.0\ASEParser.exe
+C:\dev\unity\Demos\ASEParser\ASEParser\bin\Debug\net5.0\ASEParser.deps.json
+C:\dev\unity\Demos\ASEParser\ASEParser\bin\Debug\net5.0\ASEParser.runtimeconfig.json
+C:\dev\unity\Demos\ASEParser\ASEParser\bin\Debug\net5.0\ASEParser.runtimeconfig.dev.json
+C:\dev\unity\Demos\ASEParser\ASEParser\bin\Debug\net5.0\ASEParser.dll
+C:\dev\unity\Demos\ASEParser\ASEParser\bin\Debug\net5.0\ref\ASEParser.dll
+C:\dev\unity\Demos\ASEParser\ASEParser\bin\Debug\net5.0\ASEParser.pdb
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ASEParser.dll
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ref\ASEParser.dll
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ASEParser.pdb
+C:\dev\unity\Demos\ASEParser\ASEParser\obj\Debug\net5.0\ASEParser.genruntimeconfig.cache
