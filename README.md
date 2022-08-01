@@ -1,2 +1,3 @@
 # ASEParser.Net
-An ASE Mode
+
+A project that was started but never completed.
